@@ -35,7 +35,7 @@ To run this project, you'll need to have Python and the following libraries inst
 
 ```bash
 pip install tensorflow numpy matplotlib opencv-python
-
+```
 
 **Model Architecture**
 The neural network consists of:
@@ -52,4 +52,3 @@ Epoch	Loss	Accuracy
 1	0.4676	86.63%
 2	0.1174	96.38%
 3	0.0730	97.77%
-
