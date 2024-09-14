@@ -48,7 +48,9 @@ The neural network consists of:
 ## Results
 The model achieves an accuracy of 97.77% on the test set. Below is a sample of the model’s performance:
 
-Epoch	Loss	Accuracy
-1	0.4676	86.63%
-2	0.1174	96.38%
-3	0.0730	97.77%
+| Epoch | Loss   | Accuracy |
+|-------|--------|----------|
+| 1     | 0.4676 | 86.63%   |
+| 2     | 0.1174 | 96.38%   |
+| 3     | 0.0730 | 97.77%   |
+
