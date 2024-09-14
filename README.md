@@ -37,7 +37,7 @@ To run this project, you'll need to have Python and the following libraries inst
 pip install tensorflow numpy matplotlib opencv-python
 ```
 
-**Model Architecture**
+## Model Architecture
 The neural network consists of:
 
 **Input Layer:** 28x28 flattened input for each image.
@@ -45,7 +45,7 @@ The neural network consists of:
 **Output Layer:** 10 neurons with the softmax activation function to classify digits 0-9.
 
 
-**Results**
+## Results
 The model achieves an accuracy of 97.77% on the test set. Below is a sample of the model’s performance:
 
 Epoch	Loss	Accuracy
